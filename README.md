@@ -1,6 +1,8 @@
 # Overview
 
-Sonarqube is a static code analysis tool used to ensure reliability, security, and maintainability of all the languages in your project. It detects vulnerabilities, provides an explanation and remediations steps.
+Sonarqube is a static code analysis tool used to ensure reliability, security, and maintainability of all the languages in your project. It detects vulnerabilities, provides an explanation and remediation steps.
+
+This repository had multiple violations and bugs, the goal is to run the sonarqube scans against this repository and ensure that all violation are remediated.
 
 ## Installation
 
